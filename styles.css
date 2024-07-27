@@ -29,7 +29,7 @@ body {
     display: flex;
   }
   .main-container__backgraund-section {
-    background-image: url("./images/bg-main-desktop.png");
+    background-image: url("../images/bg-main-desktop.png");
     width: 900px;
     height: 900px;
   }
