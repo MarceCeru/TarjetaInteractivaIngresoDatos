@@ -5,6 +5,8 @@
 .main-container {
     width: 375px;
     margin: auto;
+    margin-top: 10px;
+  
 
     &__backgraund-section {
         background-image: url("../images/bg-main-mobile.png");
@@ -20,6 +22,7 @@
     @media(min-width: 1440px) {
         width: 1440px;
         display: flex;
+        margin-top: 0;
 
         &__backgraund-section {
             background-image: url('../images/bg-main-desktop.png');
