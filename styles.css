@@ -13,7 +13,6 @@ body {
 .main-container {
   width: 375px;
   margin: auto;
-  margin-top: 10px;
 }
 .main-container__backgraund-section {
   background-image: url("../images/bg-main-mobile.png");
@@ -28,7 +27,6 @@ body {
   .main-container {
     width: 1440px;
     display: flex;
-    margin-top: 0;
   }
   .main-container__backgraund-section {
     background-image: url("../images/bg-main-desktop.png");
